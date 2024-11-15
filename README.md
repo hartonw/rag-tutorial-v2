@@ -32,4 +32,9 @@ Query the Chroma DB.
 pytest
 ```
 
+## How to set up Bedrock
+If you are using the Bedrock embedding, you can refer to this guide on how to set up AWS credentials: https://js.langchain.com/docs/integrations/text_embedding/bedrock/
+
 > You'll also need to install [Ollama](https://ollama.com/) to run it locally as shown in the Youtube video: https://www.youtube.com/watch?v=2TJxpyO3ei4
+
+You can also check out the git repo for the easier version of the RAG tutorial here: https://github.com/pixegami/langchain-rag-tutorial/blob/main/README.md
